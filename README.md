@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia e desenvolvedor em constante evolução. Aqui, você encontrará uma breve visão do que estou explorando e contribuindo.
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 ## 🚀 Habilidades
 
 - Linguagens: Python, JavaScript
