@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia e desenvolved
 ## 🚀 Habilidades
 
 - Linguagens:JavaScript,Php
-- Frameworks: Laravrl, Quasar, Bootstrap
+- Frameworks: Laravel, Quasar, Bootstrap
 - Ferramentas: Git.
 
 ## 📚 Aprendizado Contínuo
