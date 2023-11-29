@@ -27,8 +27,9 @@ Acredito no poder da colaboração e contribuo para projetos que promovem mudan�
 
 ## 📫 Contato
 
-- LinkedIn: [Serafim Manuel Pinto](https://www.linkedin.com/in/serafimmanuel)
-- Email: serafim.pinto@example.com
+- LinkedIn: [Serafim Manuel Pinto](https://www.linkedin.com/in/serafim-pintodev)
+- Email: serafimpintos2023@gmail.com
+- +258 846 015 727
 
 ## 🚀 Projetos em Destaque
 
@@ -39,7 +40,7 @@ Destaque alguns dos seus projetos favoritos ou mais relevantes.
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PintoDevo&show_icons=true&theme=radical)
 
 Vamos conectar e construir algo incrível juntos! 🌟
 
