@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia e desenvolved
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/pintodev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pinto.developer)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://pintodev.tech)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+258846015727)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PintoDev&show_icons=true&theme=dracula&count_private=true)
 
